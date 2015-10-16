@@ -1,6 +1,6 @@
 name: evergreen
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.5867782470304519
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: engagement
     item: null
     url: null
+typography_spectrum: 0.7151456316933036
